@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hi, I'm Javvaji
+# Hi, I'm Teja
 
 ### Developer • Problem Solver • Builder of Clean, Useful Software
 
 I design and build software that turns ideas into reliable, polished products. My work focuses on practical engineering, thoughtful user experience, and writing code that is simple to understand, easy to maintain, and ready to grow.
 
 <p>
-  <a href="https://github.com/javvaji">
+  <a href="https://github.com/saiteja195">
     <img src="https://komarev.com/ghpvc/?username=javvaji&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/javvaji?tab=followers">
+  <a href="https://github.com/saiteja195?tab=followers">
     <img src="https://img.shields.io/github/followers/javvaji?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
   </a>
 </p>
@@ -73,7 +73,6 @@ I am a developer who enjoys building complete, useful things: clean interfaces, 
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
 
 ### Backend & Data
 
@@ -89,7 +88,6 @@ I am a developer who enjoys building complete, useful things: clean interfaces, 
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
 
 ---
 
@@ -154,13 +152,13 @@ I believe great software is not just code that runs. It is software that people 
 ## Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/saitejajavvaji">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://YOUR-PORTFOLIO-LINK.com">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:saiteja.javvaji@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
