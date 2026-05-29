@@ -107,15 +107,26 @@ I am a developer who enjoys building complete, useful things: clean interfaces, 
 
 ## GitHub Snapshot
 
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Code Quality</h3>
+      <p>Readable structure, clear naming, thoughtful architecture, and steady refactoring.</p>
+    </td>
+    <td width="33%">
+      <h3>Product Focus</h3>
+      <p>Interfaces and features designed around real user needs, speed, and clarity.</p>
+    </td>
+    <td width="33%">
+      <h3>Growth Mindset</h3>
+      <p>Always learning, experimenting, improving, and turning feedback into better work.</p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=javvaji&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javvaji&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=javvaji&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=javvaji&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
